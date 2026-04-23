@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # =================================================================
-# ASSUNTO: Configuração do Grub2 - Preparação do Ambiente
+# Configuração do Grub2 - Preparação do Ambiente
 # =================================================================
 
 # 1. Trocar para o usuário comum criado para os testes
